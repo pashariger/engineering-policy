@@ -1,3 +1,7 @@
+# Engineering Self-Assessment
+Ask yourself these questions to see how well you're dealing with the fundamentals of running an engineering team. For maximum effect, ask "what are we doing about this?" as well as "why are we doing it this way?"
+
+> Want a challenge? Fork this repo and publish your answers! Use it as a base-point for discussions about process, a way to track how your processes are evolving, or onboarding documentation for new hires.
 
 ## I.  Company
 1. Have we clearly articulated and written down our company vision and mission (and shared them with the team)?
@@ -63,7 +67,7 @@
 2. How are we notified if an error occurs?
 
 Security
-1. What are the security policies the company follows?
+1. What are the security policies our organization follows?
 2. Who has access to the production environment?
 3. Do we have a bug-bounty program?
 
@@ -75,6 +79,6 @@ Security
 5. Do we have an off-boarding procedure or checklist that protects company communications, access to information, and morale?
 
 ## V. Hiring
-1. What is your lead generation process? Are you measuring the ROI on different methods and adjusting accordingly, or spraying and praying?
-2. Have you thought through your interview process & pipeline? Do you have the right experience to vet candidates? If not, how do you compensate for this? Do you follow up on references?
-3. Once a hire is made, do you have a trial period? How long is it? Are expectations clearly communicated and performance measured?
+1. What is our lead generation process? Are we measuring the ROI on different methods and adjusting accordingly, or spraying and praying?
+2. Have we thought through our interview process & pipeline? Do we have the right experience to vet candidates? If not, how do we compensate for this? Do we follow up on references?
+3. Once a hire is made, do we have a trial period? How long is it? Are expectations clearly communicated and performance measured?
