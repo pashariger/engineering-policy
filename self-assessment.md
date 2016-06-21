@@ -5,7 +5,7 @@ Ask yourself these questions to see how well you're dealing with the fundamental
 
 ## I.  Company
 1. Have we clearly articulated and written down our company vision and mission (and shared them with the team)?
-2. Can everyone on the team explain what the organization vision, mission and current goals are?
+2. Can everyone on the team explain what the organization vision, mission and current goals are? Are the answers consistent?
 
 ## II. Development Methodology 
 ### Roles & Responsibilities 
@@ -81,4 +81,5 @@ Security
 ## V. Hiring
 1. What is our lead generation process? Are we measuring the ROI on different methods and adjusting accordingly, or spraying and praying?
 2. Have we thought through our interview process & pipeline? Do we have the right experience to vet candidates? If not, how do we compensate for this? Do we follow up on references?
-3. Once a hire is made, do we have a trial period? How long is it? Are expectations clearly communicated and performance measured?
+3. Do we have clearly defined criteria for grading candidates on "Must haves", "Nice to haves", and "Important" characteristic? Are our interviewers in sync on those criteria?
+4. Once a hire is made, do we have a trial period? How long is it? Are expectations clearly communicated and performance measured?
