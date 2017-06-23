@@ -32,7 +32,7 @@ Ask yourself these questions to see how well you're dealing with the fundamental
 9. Have we identified the biggest knowledge and experience gaps in our engineering organization? Have we attracted and properly utilized advisors to fill those gaps?
 
 ## III. Engineering Philosophy & Practices 
-###Principles 
+### Principles 
 1. What are the guiding principles of our engineering organization?
 2. What is the definition of “done” in the context of our development workflow?
 3. Can we clearly describe, defend and be proud of our architecture?
@@ -48,9 +48,9 @@ Ask yourself these questions to see how well you're dealing with the fundamental
 
 ### Coding Standards 
 1. How do we know how well we are doing with testing? How do we encourage or enforce good testing practices?
-2. How do we maintain code styling consistency across our projects to?
+2. How do we maintain code styling consistency across our projects?
 3. Are there any specific coding patterns that we expect our team to follow?
-4. Do we do code review? Why or why not?
+4. Do we do peer code review? Why or why not?
 
 ### DevOps
 1. How do we integrate work from multiple developers and branches and ensure that it is safe to deploy to production?
